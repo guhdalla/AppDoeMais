@@ -1,0 +1,1 @@
+export const ApiUri = "http://192.168.18.5:8080"

@@ -1,0 +1,11 @@
+npm install @react-navigation/native
+expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+npm install @react-navigation/bottom-tabs
+npm i react-native-swiper --save // Slide em view
+npm install --save react-native-vector-icons
+npm install react-native-chart-kit
+npm install react-native-svg
+npm install react-native-masked-text --save
+
+Lembre-se de atualizar a uri com base em seu ipv4. Atualize no arquivo ApiConfig.js.
